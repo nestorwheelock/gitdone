@@ -1,0 +1,9 @@
+[package]
+author = "Nestor Wheelock"
+license = "GPL3  Freely do as you do but you must publish your changes for others to use under the same license."
+description = "git wrapper to make it faster to save your work. one-liner: gitdone message"
+name = "gitdone"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
