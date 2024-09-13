@@ -94,7 +94,8 @@ Contributions are welcome! If you’d like to improve GitDone, feel free to fork
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the GNU GPLv3 License. See the [LICENSE](./LICENSE) file for details.
+You're free to use my code as long as you release your changes and maintain my authorship credit under the same license.
 
 ## Future Enhancements
 
